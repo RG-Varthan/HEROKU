@@ -2655,7 +2655,7 @@ var environment = {
     votingUrl: 'https://eosportal.io',
     appName: 'TC EOS Tracker',
     logoUrl: '/assets/logo.png',
-    blockchainUrl: 'http://127.0.0.1:8888',
+    blockchainUrl: 'http://192.168.1.23:8888',
     chainId: 'cf057bbfb72640471fd910bcb67639c22df9f92470936cddc1ade0e2f2e7dc4f',
     // blockchainUrl: 'https://proxy.eosnode.tools',
     // chainId: 'aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906',
