@@ -12,4 +12,4 @@ res.sendFile(path.join(__dirname,'/TC_Eos_Tracker/index.html'));
 });
 
 // Start the app by listening on the default Heroku port
-app.listen(process.env.PORT || 3000, () => { console.log("TC EOS Tracker runs: http://192.168.1.23:3000")});
+app.listen(process.env.PORT || 3000, () => { console.log("TC EOS Tracker runs: http://192.168.1.29:3000")});
